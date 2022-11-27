@@ -7,4 +7,4 @@
 - The address of the malicuous contract is 
 `` https://etherscan.io/address/0xb5c827fdbbee6f6e9df3a5cb499aedf5927de1b8 ``.
 
-- Our lack of finding the source code to the malicious contracts contrained us from replicating original attack using foundry, thus could not conduct test on our local machine. However, we are certain the report above sheds light on the attack. And then presents a robust solition to eliminating this particular type of cross bridge attacks.
+- Our lack of finding the source code to the malicious contract contrained us from replicating the original attack using foundry. However, we are certain the report above sheds light on the attack. And finally presents a robust solution to eliminating this particular type of cross bridge attacks.
